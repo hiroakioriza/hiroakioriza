@@ -4,10 +4,10 @@ I'm a College Student Who likes Motion Graphics and Coding (Laravel & Tailwind).
 
 - 🔭 I’m currently working on
 
-	<a href="https://github.com/AkateknoID"><b>1. @AkateknoID Projects</b></>
+	<a href="https://github.com/AkateknoID"><b>1. @AkateknoID Projects</b></a>
 	![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) <a href="https://wakatime.com/badge/user/45f9aa3c-9b8f-4c24-b166-e58ebf584646/project/d497886e-bade-45ca-8cae-8c8e3bf1b71f"><img src="https://wakatime.com/badge/user/45f9aa3c-9b8f-4c24-b166-e58ebf584646/project/d497886e-bade-45ca-8cae-8c8e3bf1b71f.svg" alt="wakatime"></a>
 
- 	<a href="https://www.idol-company.com/"><b>2. @IdolEN Projects</b></b>
+ 	<a href="https://www.idol-company.com/"><b>2. @IdolEN Projects</b></a>
   ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)
   
 - 🌱 I’m currently learning more about Laravel Things
