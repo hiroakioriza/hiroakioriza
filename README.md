@@ -1,9 +1,15 @@
 # Hello!, I'm Mohammad Arief Firmansyah ✌🏻
-https://wakatime.com/badge/user/45f9aa3c-9b8f-4c24-b166-e58ebf584646/project/d497886e-bade-45ca-8cae-8c8e3bf1b71f.svg
 
-I'm a College Student Who like Motion Graphics and Coding (Laravel & Tailwind).
+I'm a College Student Who likes Motion Graphics and Coding (Laravel & Tailwind).
 
-- 🔭 I’m currently working on @AkateknoID Projects (Laravel) And Music Video (MV VTuber)
+- 🔭 I’m currently working on
+
+	<b>1. @AkateknoID Projects</b>
+	![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) <a href="https://wakatime.com/badge/user/45f9aa3c-9b8f-4c24-b166-e58ebf584646/project/d497886e-bade-45ca-8cae-8c8e3bf1b71f"><img src="https://wakatime.com/badge/user/45f9aa3c-9b8f-4c24-b166-e58ebf584646/project/d497886e-bade-45ca-8cae-8c8e3bf1b71f.svg" alt="wakatime"></a>
+
+ 	<b>2. @IdolEN Projects</b>
+  ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)
+  
 - 🌱 I’m currently learning more about Laravel Things
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,18 +35,3 @@ I'm a College Student Who like Motion Graphics and Coding (Laravel & Tailwind).
 ---
 [![](https://visitcount.itsvg.in/api?id=hiroakioriza&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**hiroakioriza/hiroakioriza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
